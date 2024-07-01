@@ -1,0 +1,39 @@
+#button {
+  font-family: "Calibri";
+  font-size: larger;
+  border: none;
+  color: white;
+  background-color: #087;
+  border-radius: 5px;
+  padding: 4px;
+  margin: 10%;
+  width: 10vw;
+  height: 4vh;
+  margin: 0;
+  margin-left: 0.5vw;
+}
+
+.closeButton {
+  font-family: "Calibri";
+  color: white;
+  position: absolute;
+  right: 0px;
+  left: auto;
+  margin-right: 4px;
+  margin-top: 4px;
+  width: 2.5vh;
+  height: 2.5vh;
+  border: none;
+  background-color: red;
+  border-radius: 30%;
+}
+
+.addTextBlock {
+  display: inline-block;
+  background-color: #0d0;
+}
+
+.addImage {
+  display: inline-block;
+  background-color: #dd0;
+}

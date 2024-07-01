@@ -1,0 +1,82 @@
+body {
+  background-color: white;
+}
+
+#color {
+  height: 3vh;
+  margin-right: 0.5vw;
+}
+
+.basicInput {
+  font-family: "Calibri";
+  font-size: larger;
+  border-radius: 5px;
+  padding: 4px;
+  width: 10vw;
+  height: 3vh;
+}
+
+#mainDiv {
+  padding: 0.5%;
+  text-align: center;
+}
+
+#stickDiv {
+  text-align: start;
+  padding: 2%;
+}
+
+.sticker {
+  border: solid black 1px;
+  position: relative;
+  font-family: "Calibri";
+  font-size: larger;
+  display: inline-block;
+  padding: 0%;
+  margin: 5px;
+  width: 28%;
+  border-radius: 10px;
+  background-color: white;
+}
+
+.stickerContent {
+  overflow: scroll;
+  overflow-x: hidden;
+  margin: 2%;
+  aspect-ratio: 1 / 0.5;
+  width: 95.5%;
+}
+
+.stickerText {
+  resize: none;
+
+  font-family: "Calibri";
+  aspect-ratio: 1 / 0.2;
+  width: 94%;
+}
+
+.stickerTextImg {
+  resize: none;
+
+  font-family: "Calibri";
+  width: 98%;
+  max-width: 94%;
+  min-width: 94%;
+  height: 35px;
+  max-height: 35px;
+  min-height: 35px;
+}
+
+.stickerImg {
+  display: inline-block;
+  width: 30%;
+}
+
+.stickerHead {
+  font-family: "Calibri";
+  font-size: larger;
+  display: inline-block;
+  margin-left: 1.2%;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
