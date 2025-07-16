@@ -4,7 +4,7 @@
 - Age: 18
 
 ## Education
-- Computer Graphics Support Group (CGSG) (2025)
+- Computer Graphics Support Group (CGSG) (2024)
 - Phys-Math Lyceum №30 <i>in Saint-Petersburg, Russia</i> (2025)
 
 ## Interests
