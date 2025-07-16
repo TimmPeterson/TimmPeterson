@@ -2,6 +2,7 @@
 
 - Name: Tim Peterson
 - Age: 18
+- Langs: `C/C++, JavaScript, Python, glsl, Lean 4` 
 
 ## Education
 - Computer Graphics Support Group (CGSG) (2024)
