@@ -5,9 +5,9 @@
 - Langs: `C/C++, JavaScript, Python, glsl, Lean 4` 
 
 ## Education
-- Computer Graphics Support Group (CGSG) (2024)
-- Phys-Math Lyceum №30 <i>in Saint-Petersburg, Russia</i> (2025)
-
+- Computer Graphics Support Group (CGSG) (2023-2024)
+- Phys-Math Lyceum №30 <i>in Saint-Petersburg, Russia</i> (2022-2025)
+- SPBU MCS Math (current)
 ## Interests
 
 ### Math
