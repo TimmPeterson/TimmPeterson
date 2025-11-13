@@ -21,7 +21,6 @@
 - `C/C++` development.
 - Offline computer graphics engines.
 - Realtime computer graphics engines.
-- Formal languages.
 - Theorem prooving using `Lean`.
 - GPU `glsl` shaders fun coding.
 
