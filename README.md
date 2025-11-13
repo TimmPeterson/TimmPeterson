@@ -13,6 +13,9 @@
 ### Math
 
 - Abstract Algebra.
+- Group Theory.
+- Category Theory.
+- Lie Algebras.
 - Inductive Type Theory.
 
 ### Programming
