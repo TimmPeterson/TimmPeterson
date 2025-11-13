@@ -13,7 +13,6 @@
 ### Math
 
 - Abstract Algebra.
-- Lie Algebras.
 - Inductive Type Theory.
 
 ### Programming
