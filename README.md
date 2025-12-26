@@ -29,6 +29,7 @@
 
 ## Repos
 
-- `tp5-rt` : Offline ray tracing rendering engine : `(С++)`
-- `tp5-anim` : Realtime OpenGL rendering engine. : `(C++)`
-- `tp5-bf` : Compile-time Brainfuck interpreter using C++ variadic templates : `(C++)` 
+- `tp5-rt` | Offline ray tracing rendering engine | `(С++)`
+- `tp5-anim` | Realtime OpenGL rendering engine | `(C++)`
+- `tp5-bf` | Compile-time Brainfuck interpreter using C++ variadic templates | `(C++)` 
+- `tp5-ct` | Some compile-time stuff on C++ | `(C++)`
