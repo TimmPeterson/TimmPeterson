@@ -2,7 +2,7 @@
 
 - Name: Tim Peterson
 - Age: 18
-- Langs: `C/C++, JavaScript, Python, glsl, Lean 4` 
+- Langs: `C/C++, Python, JavaScript, glsl, Lean 4` 
 
 ## Education
 - Computer Graphics Support Group (CGSG) (2023-2024)
@@ -13,8 +13,9 @@
 ### Math
 
 - Abstract Algebra.
-- Group Theory.
+- Homological Algebra.
 - Category Theory.
+- Group Theory.
 - Lie Algebras.
 - Inductive Type Theory.
 
@@ -26,7 +27,8 @@
 - Theorem prooving using `Lean`.
 - GPU `glsl` shaders fun coding.
 
-## Main Projects
+## Repos
 
-- `tp5-rt` : Offline ray tracing rendering engine.
-- `tp5-anim` : Realtime OpenGL rendering engine.
+- `tp5-rt` : Offline ray tracing rendering engine : `(С++)`
+- `tp5-anim` : Realtime OpenGL rendering engine. : `(C++)`
+- `tp5-bf` : Compile-time Brainfuck interpreter using C++ variadic templates : `(C++)` 
