@@ -1,7 +1,7 @@
 # About
 
-- Name: Tim Peterson
-- Age: 18
+- Me: Tim Peterson
+- Age: 19
 - Langs: `C/C++, Python, JavaScript, glsl, Lean 4` 
 
 ## Education
@@ -12,7 +12,6 @@
 
 ### Math
 
-- Abstract Algebra.
 - Homological Algebra.
 - Category Theory.
 - Group Theory.
