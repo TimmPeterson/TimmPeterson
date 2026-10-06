@@ -13,10 +13,10 @@
 
 ### Math
 
-- Homological Algebra.
-- Category Theory.
 - Group Theory.
 - Lie Algebras.
+- Homotopy Theory.
+- Category Theory. 
 - Inductive Type Theory.
 
 ### Programming
