@@ -1,6 +1,6 @@
 # About
 
-- Me: Tim Peterson
+- Me: Tima Petrov
 - Age: 19
 - Langs: `C/C++, Python, JavaScript, glsl, Lean 4` 
 
