@@ -1,10 +1,7 @@
 # About
 
-- Me: Tima Petrov
-- Age: 19
-- Langs: `C/C++, Python, JavaScript, glsl, Lean 4` 
-
 ## Education
+
 - SPBU MCS Math (current)
 - Phys-Math Lyceum №30 <i>in Saint-Petersburg, Russia</i> (2022-2025)
 - Computer Graphics Support Group (CGSG) (2023-2024)
